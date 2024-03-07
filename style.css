@@ -4,12 +4,13 @@
     font-family: sans-serif;
 }
 
-body {
-    height: 100%;
+.banner {
+    height: 800px;
     width: 100%;
     background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url("./image/ac2d785c02afa52c58ce8f4582258717.jpg");
     background-position: center;
     background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .navbar {
